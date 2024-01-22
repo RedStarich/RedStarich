@@ -11,7 +11,7 @@ I am a Kazakh-British Technical University student from Kazakhstan<br>Passionate
 ![](https://github-readme-streak-stats.herokuapp.com/?user=redstarich&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redstarich&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # LeetCode Stats
-[![altairzhambyl's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=altairzhambyl&theme=dark)]
+![altairzhambyl's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=altairzhambyl&theme=dark)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=redstarich&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
