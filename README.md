@@ -1,5 +1,5 @@
 # ☀️ Pixel Cozy Street on a warm day
-![gigig](https://wallpaperaccess.com/full/6364907.gif)
+![gigig](https://wallpaperaccess.com/full/6196574.jpg)
 
 ## 👋 About Me
 Hello there! I'm Altair, a Software Engineer from Almaty, Kazakhstan. I'm always up for an adventure, especially when it comes to crafting joyful and creative experiences. 🚀
