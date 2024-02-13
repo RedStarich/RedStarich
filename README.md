@@ -1,4 +1,4 @@
-# 🌧️ Pixel Cozy Street on a warm day
+# ☀️ Pixel Cozy Street on a warm day
 ![gigig](https://wallpaperaccess.com/full/6364907.gif)
 
 ## 👋 About Me
