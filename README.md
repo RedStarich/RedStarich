@@ -12,5 +12,5 @@ Here's a glimpse of the technologies I love working with:
 - **Machine Learning** Scikit-Learn, Matplotlib, Pandas, Numpy, Sympy, Plotly
 - **Frontend** React, Next js, TailwindCSS 
 - **Backend** Node js, Express, MongoDB, AWS S3
-- 
-I'm excited to chat and collaborate! 😊✨
+
+## I'm excited to chat and collaborate! 😊✨
