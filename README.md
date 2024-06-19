@@ -10,6 +10,6 @@ Here's a glimpse of the technologies I love working with:
 - **Languages:** Python, C++
 - **Mobile Development** Flutter, Dart, Android Studio
 - **Machine Learning** Scikit-Learn, Matplotlib, Pandas, Numpy, Sympy, Plotly
-- **Web Development** React, Next.js, Node.js
-
+- **Frontend** React, Next js, TailwindCSS 
+- **Backend** Node js, Express, MongoDB, AWS S3
 I'm excited to chat and collaborate! 😊✨
